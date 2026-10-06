@@ -1,0 +1,6 @@
+# Copy to voip.conf and edit before running install.sh
+EXTENSIONS="1001 1002 1003"
+SIP_PORT=5060
+RTP_START=10000
+RTP_END=10100
+ENABLE_FIREWALL=yes
